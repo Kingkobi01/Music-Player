@@ -98,4 +98,4 @@ function updateProgress(e) {
     progress.style.width = `${progressPercent}%`
 }
 
-audio.addEventListener("ended", nextSong)
+audio.addEventListener("ended", nextSong)b
